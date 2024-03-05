@@ -1,1 +1,1 @@
-JS WebSocket client. Check screenshot for details.
+JavaScript WebSocket client. Check screenshot for details.

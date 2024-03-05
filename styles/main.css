@@ -1,0 +1,17 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input {
+    margin: 5px;
+}
+
+#messagebox {
+    width: 375px;
+    height: 200px;
+    margin: 5px;
+    border: 1px solid grey;
+    overflow: auto;
+    border-radius: 3px;
+    font-size: 0.875em;
+}
